@@ -23,10 +23,25 @@ This project is a visually captivating web application that showcases various ju
 - CSS
 - JavaScript
 
-## Preview
+## Clone the Repository
 
-![Juice Animated Website](./images/preview.png)
+To run the project locally, follow these steps:
 
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/aditikute24/Juice-Animated-Website.git
+   ```
+
+2. **Navigate to the Project Directory:**
+
+   ```bash
+   cd Juice-Animated-Website
+   ```
+
+3. **Open `index.html` in Your Browser:**
+
+   Simply open `index.html` in your preferred web browser to view the project.
 
 If you enjoy the project, please give it a ⭐ on [GitHub](https://github.com/aditikute24/Juice-Animated-Website). Your support helps me create more exciting projects!
 
