@@ -43,9 +43,11 @@ To run the project locally, follow these steps:
 
    Simply open `index.html` in your preferred web browser to view the project.
 
+   ---
+
 If you enjoy the project, please give it a ⭐ on [GitHub](https://github.com/aditikute24/Juice-Animated-Website). Your support helps me create more exciting projects!
 
-
+---
 Thank you for visiting the [Juice Animated Website](https://aditikute24.github.io/Juice-Animated-Website/)! I hope you find it refreshing and inspiring. 😊
 
 ---
